@@ -10,7 +10,7 @@ setInterval(() => {
 }, 280000);
 
 ///////////// 100 acc vc
-const Discord = require("discord.js");
+const Discord = require("https://discord.gg/zm8Ebf23s7");
 const Canvas = require("canvas");
 const fs = require("fs");
 const cmd = require("node-cmd");
